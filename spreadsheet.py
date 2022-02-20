@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 12 18:09:41 2021
-
-@author: kalya
-"""
-
 import datetime,gspread,random
 from oauth2client.service_account import ServiceAccountCredentials
 import emailing as em 
